@@ -1,0 +1,15 @@
+C:\Users\dim1a\Desktop\Home\H_W_Recursoin\bin\Debug\net6.0\H_W_Recursoin.exe
+C:\Users\dim1a\Desktop\Home\H_W_Recursoin\bin\Debug\net6.0\H_W_Recursoin.deps.json
+C:\Users\dim1a\Desktop\Home\H_W_Recursoin\bin\Debug\net6.0\H_W_Recursoin.runtimeconfig.json
+C:\Users\dim1a\Desktop\Home\H_W_Recursoin\bin\Debug\net6.0\H_W_Recursoin.dll
+C:\Users\dim1a\Desktop\Home\H_W_Recursoin\bin\Debug\net6.0\H_W_Recursoin.pdb
+C:\Users\dim1a\Desktop\Home\H_W_Recursoin\obj\Debug\net6.0\H_W_Recursoin.csproj.AssemblyReference.cache
+C:\Users\dim1a\Desktop\Home\H_W_Recursoin\obj\Debug\net6.0\H_W_Recursoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dim1a\Desktop\Home\H_W_Recursoin\obj\Debug\net6.0\H_W_Recursoin.AssemblyInfoInputs.cache
+C:\Users\dim1a\Desktop\Home\H_W_Recursoin\obj\Debug\net6.0\H_W_Recursoin.AssemblyInfo.cs
+C:\Users\dim1a\Desktop\Home\H_W_Recursoin\obj\Debug\net6.0\H_W_Recursoin.csproj.CoreCompileInputs.cache
+C:\Users\dim1a\Desktop\Home\H_W_Recursoin\obj\Debug\net6.0\H_W_Recursoin.dll
+C:\Users\dim1a\Desktop\Home\H_W_Recursoin\obj\Debug\net6.0\refint\H_W_Recursoin.dll
+C:\Users\dim1a\Desktop\Home\H_W_Recursoin\obj\Debug\net6.0\H_W_Recursoin.pdb
+C:\Users\dim1a\Desktop\Home\H_W_Recursoin\obj\Debug\net6.0\H_W_Recursoin.genruntimeconfig.cache
+C:\Users\dim1a\Desktop\Home\H_W_Recursoin\obj\Debug\net6.0\ref\H_W_Recursoin.dll
